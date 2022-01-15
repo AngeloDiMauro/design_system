@@ -1,0 +1,110 @@
+
+.green {
+    background-color: #179947;
+    width: 150px;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.purple {
+    background-color: #A050E6;
+    padding: 20px 0;
+    position: relative;
+}
+
+.orange {
+    background-color: #E69A22;
+    padding: 20px 0px;
+}
+.limegreen {
+    background-color: #3AE67A;
+    padding: 20px 0px;
+}
+#colors {
+    width: 150px;
+    text-align: center;
+    padding: 20px 0px;
+    border-radius: 15px;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+div.border {
+    border: 5px solid black;
+    border-radius: 20px;
+    width: 150px;
+    margin: 45px auto;
+    text-align: center;
+    background-color: peachpuff;
+}
+h2 {
+    font-family: Helvetica;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 26px;
+}
+.nautigal {
+    font-family: "The Nautigal";
+    font-size: 200%;
+}
+
+.merriweather {
+    font-family: Merriweather;
+    font-size: 16px;
+}
+
+.roboto {
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+div.fonts {
+    width: 450px;
+    border: 5px solid black;
+    text-align: center;
+    border-radius: 15px;
+    margin: 20px auto;
+    background-color: papayawhip;
+    padding: 10px;
+    line-height: 2em;
+}
+div.text {
+    width: 600px;
+    border: 5px solid black;
+    border-radius: 20px;
+    text-align: left;
+    background-color: slateblue;
+    margin: 20px auto;
+    padding: 20px 20px;
+}
+
+ul {
+    list-style-type: none;
+    text-align: left;
+    font-family: Helvetica;
+    font-size: 22px;
+    background-color: salmon;
+    padding: 10px;
+    border-radius: 15px;
+    opacity: .75;
+}
+
+div.text h1 {
+    text-align: left;
+    letter-spacing: .25em;
+}
+
+div.text p {
+    font-family: Helvetica;
+    letter-spacing: .25em;
+}
+div.text h2 {
+    letter-spacing: .25em;
+}
